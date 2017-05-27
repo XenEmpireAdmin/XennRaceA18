@@ -24,24 +24,31 @@
       <MoveSpeed>0.65</MoveSpeed>
     </statFactors>
   </LifeStageDef>
+  
+  <LifeStageDef>
+    <defName>TeenStageXenn</defName>
+    <label>adult</label>
+    <visible>false</visible>
+    <reproductive>false</reproductive>
+  </LifeStageDef>
 
   <LifeStageDef>
     <defName>AdultStageXenn</defName>
-    <label>adult StageXenn</label>
+    <label>adult</label>
     <visible>false</visible>
     <reproductive>true</reproductive>
   </LifeStageDef>
 
   <LifeStageDef>
     <defName>ElderStageXenn</defName>
-    <label>elder StageXenn</label>
+    <label>elder</label>
     <visible>false</visible>
     <reproductive>true</reproductive>
   </LifeStageDef>
   
   <LifeStageDef>
     <defName>AncestorStageXenn</defName>
-    <label>ancestor StageXenn</label>
+    <label>ancestor</label>
     <visible>false</visible>
     <reproductive>true</reproductive>
   </LifeStageDef>

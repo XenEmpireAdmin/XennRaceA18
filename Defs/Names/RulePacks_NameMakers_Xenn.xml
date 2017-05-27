@@ -1,22 +1,21 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <NameMakerDefs>
 
-  <RulePackDef>
-    <defName>NamerPersonXenn</defName>
+<RulePackDef>
+    <defName>NamerPersonXennMale</defName>
     <rulePack>
       <rulesStrings>
-        <li>name->[Xennfirst] [Xennlast]</li>
+        <li>name->[XennMfirst] [Xennlast]</li>
         <li>name->[badassx] [Xennfirst]</li>
-        <li>name->[Xennfirst] '[badassx]' [Xennlast]</li>
-        <li>name->[Xennfirst] '[Xennlast]' [roman]</li>
-        <li>name->[Xennfirst] '[color]' [Xennlast]</li>
-        <li>name->[Xennfirst] [badassx]</li>
-
+        <li>name->[XennMfirst] '[badassx]' [Xennlast]</li>
+        <li>name->[badassx] '[nick]' [Xennlast]</li>
+        <li>name->[XennMfirst] '[nick]' [Xennlast]</li>
+        <li>name->[XennMfirst] [badassx]</li>
       </rulesStrings>
       <rulesRaw>
         <li Class="Rule_File">
-          <keyword>Xennfirst</keyword>
-          <path>Xenn_Names/Xenn</path>
+          <keyword>XennMfirst</keyword>
+          <path>Xenn_Names/XennM</path>
         </li>
         <li Class="Rule_File">
           <keyword>Xennlast</keyword>
@@ -27,12 +26,39 @@
           <path>Xenn_Names/Concepts_Xen</path>
         </li>
         <li Class="Rule_File">
-          <keyword>roman</keyword>
-          <path>Words/Misc/Numbers_SmallRoman</path>
+          <keyword>nick</keyword>
+          <path>Xenn_Names/Nicks</path>
+        </li>
+      </rulesRaw>
+    </rulePack>
+  </RulePackDef>
+  
+  <RulePackDef>
+    <defName>NamerPersonXennFemale</defName>
+    <rulePack>
+      <rulesStrings>
+        <li>name->[XennFfirst] [Xennlast]</li>
+        <li>name->[badassx] [Xennfirst]</li>
+        <li>name->[XennFfirst] '[badassx]' [Xennlast]</li>
+        <li>name->[XennFfirst] '[nick]' [Xennlast]</li>
+        <li>name->[XennFfirst] [badassx]</li>
+      </rulesStrings>
+      <rulesRaw>
+        <li Class="Rule_File">
+          <keyword>XennFfirst</keyword>
+          <path>Xenn_Names/XennF</path>
         </li>
         <li Class="Rule_File">
-          <keyword>color</keyword>
-          <path>Words/Nouns/Colors</path>
+          <keyword>Xennlast</keyword>
+          <path>Xenn_Names/Xennlast</path>
+        </li>
+        <li Class="Rule_File">
+          <keyword>badassx</keyword>
+          <path>Xenn_Names/Concepts_Xen</path>
+        </li>
+        <li Class="Rule_File">
+          <keyword>nick</keyword>
+          <path>Xenn_Names/Nicks</path>
         </li>
       </rulesRaw>
     </rulePack>

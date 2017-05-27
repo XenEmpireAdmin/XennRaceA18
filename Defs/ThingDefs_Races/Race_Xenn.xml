@@ -150,7 +150,7 @@
             <alienslavekinds>
                 <li>
                     <kindDefs>
-                        <li>XennHunter</li>
+                        <li>XennSlave</li>
                     </kindDefs>
                     <chance>40.0</chance>
                 </li>
@@ -158,7 +158,7 @@
             <alienrefugeekinds>
                 <li>
                     <kindDefs>
-                        <li>XennCommandoElite</li>
+                        <li>XennRefugee</li>
                     </kindDefs>
                     <chance>50.0</chance>
                 </li>
@@ -197,7 +197,7 @@
                         </li>
                     </pawnKindEntries>
                     <factionDefs>
-                        <li>PlayerColony</li> 
+                        <li>XennPlayerColony</li> 
                     </factionDefs>
                 </li>
             </alienwandererkinds>
@@ -259,7 +259,8 @@
       <leatherCommonalityFactor>0.001</leatherCommonalityFactor>
       <leatherInsulation>0.70</leatherInsulation>
       <leatherMarketValueFactor>3</leatherMarketValueFactor>
-      <nameGenerator>NamerPersonXenn</nameGenerator>
+      <nameGenerator>NamerPersonXennMale</nameGenerator>
+       <nameGeneratorFemale>NamerPersonXennFemale</nameGeneratorFemale>
       <body>Xenn</body>
       <bloodDef>FilthBloodXenn</bloodDef>	
       <meatColor>(0, 0, 128)</meatColor>
@@ -284,9 +285,13 @@
           <def>ChildStageXenn</def>
           <minAge>4</minAge>
         </li>
+		<li>
+          <def>TeenStageXenn</def>
+          <minAge>13</minAge>
+        </li>
         <li>
           <def>AdultStageXenn</def>
-          <minAge>16</minAge>
+          <minAge>18</minAge>
         </li>
         <li>
           <def>ElderStageXenn</def>

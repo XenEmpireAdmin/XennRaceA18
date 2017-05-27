@@ -97,6 +97,15 @@
     <trader>true</trader>
   </PawnKindDef>
   
+  <PawnKindDef ParentName="XennCivBase">
+    <defName>XennSlave</defName>
+    <label>slave</label>
+  </PawnKindDef>
+
+  <PawnKindDef ParentName="XennCivBase">
+    <defName>XennRefugee</defName>
+    <label>refugee</label>
+  </PawnKindDef>
 
   
   <!-- ============================ Xenn Security ========================== -->
