@@ -16,7 +16,7 @@
     <pawnsPlural>colonists</pawnsPlural>
     <factionNameMaker>NamerFactionOutlander</factionNameMaker>
     <techLevel>Ultra</techLevel>
-    <backstoryCategory>Civil</backstoryCategory>
+    <backstoryCategory>XennBackstory</backstoryCategory>
     <homeIconPath>World/XennBaseIcon</homeIconPath>
     <expandingIconTexture>World/XennBaseIcon</expandingIconTexture>
     <startingResearchTags>
@@ -42,7 +42,7 @@
     <pawnsPlural>colonists</pawnsPlural>
     <factionNameMaker>NamerFactionOutlander</factionNameMaker>
     <techLevel>Ultra</techLevel>
-    <backstoryCategory>Civil</backstoryCategory>
+    <backstoryCategory>XennBackstory</backstoryCategory>
     <homeIconPath>World/XennBaseIcon</homeIconPath>
     <expandingIconTexture>World/XennBaseIcon</expandingIconTexture>
     <startingResearchTags>
