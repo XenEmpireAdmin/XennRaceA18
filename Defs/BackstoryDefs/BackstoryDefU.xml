@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+<AlienRace.BackstoryDef>
+    <defName>XennMonkKidX</defName>
+    <title>Shaolin</title>
+	<titleShort>Grasshopper</titleShort>
+    <baseDescription>NAME was accepted for training at an ancient Shaolin monastery after his family died to various tragedies. He was raised by the blind master Po, who became his beloved mentor.</baseDescription>
+    <slot>Childhood</slot>
+	<bodyTypeFemale>Female</bodyTypeFemale>
+	<bodyTypeMale>Male</bodyTypeMale>
+	<bodyTypeGlobal>Thin</bodyTypeGlobal>
+    <spawnCategories>
+      <li>XennBackstory</li>
+    </spawnCategories>
+    <skillGains>
+      <li>
+        <defName>Social</defName>
+        <amount>2</amount>
+      </li>
+	  <li>
+        <defName>Melee</defName>
+        <amount>6</amount>
+      </li>
+	  <li>
+        <defName>Growing</defName>
+        <amount>4</amount>
+      </li>
+    </skillGains>
+</AlienRace.BackstoryDef>
+
+<AlienRace.BackstoryDef>
+    <defName>XennKaine</defName>
+    <title>Wandering monk</title>
+	<titleShort>Shaolin</titleShort>
+    <baseDescription>One day, Caine's beloved mentor and elder, Master Po, is murdered by the Emperor's nephew; outraged, Caine retaliates by killing the nephew. With a price on his head, Caine is forced to flee...
+    </baseDescription>
+    <slot>Adulthood</slot>
+	<bodyTypeFemale>Female</bodyTypeFemale>
+	<bodyTypeMale>Male</bodyTypeMale>
+	<bodyTypeGlobal>Thin</bodyTypeGlobal>
+	<maleCommonality>20</maleCommonality>
+	<femaleCommonality>20</femaleCommonality>
+    <spawnCategories>
+      <li>XennBackstory</li>
+    </spawnCategories>
+    <skillGains>
+      <li>
+        <defName>Social</defName>
+        <amount>2</amount>
+      </li>
+	  <li>
+        <defName>Melee</defName>
+        <amount>8</amount>
+      </li>
+	  <li>
+        <defName>Growing</defName>
+        <amount>4</amount>
+      </li>
+    </skillGains>
+      <forcedTraits>
+        <li>
+            <defname>Brawler</defname>
+            <chance>100</chance>
+        </li>
+        <li>
+            <defname>Kind</defname>
+            <chance>100</chance>
+        </li>
+      </forcedTraits>
+</AlienRace.BackstoryDef>
+
+<AlienRace.BackstoryDef>
+    <defName>XennCSKid</defName>
+    <title>Young Astrophysicist</title>
+	<titleShort>Astrokid</titleShort>
+    <baseDescription>A young Sagan was inspired by a visit to the World's Fair. Seeing all the amazing applications and explorations of science left a deep sense of awe and wonder at the mechanics of the universe. This started his path to astronomy and astrophysics.</baseDescription>
+    <slot>Childhood</slot>
+    <spawnCategories>
+      <li>XennBackstory</li>
+    </spawnCategories>
+	<bodyTypeFemale>Female</bodyTypeFemale>
+	<bodyTypeMale>Male</bodyTypeMale>
+	<bodyTypeGlobal>Thin</bodyTypeGlobal>
+		<maleCommonality>20</maleCommonality>
+	<femaleCommonality>20</femaleCommonality>
+    <skillGains>
+      <li>
+        <defName>Intellectual</defName>
+        <amount>6</amount>
+      </li>
+	        <li>
+        <defName>Crafting</defName>
+        <amount>4</amount>
+      </li>
+    </skillGains>
+</AlienRace.BackstoryDef>
+
+<AlienRace.BackstoryDef>
+    <defName>XennSaganAdult</defName>
+    <title>Astrophysics professor</title>
+	<titleShort>Professor</titleShort>
+    <baseDescription>Over time, Sagan's passion for scientific discovery pushed him to write a multitude of books and other media devoted to astronomy and astrophysics (Over 595,000 items....SERIOUSLY not a joke). How did he end up here.... and so hairy? 
+    </baseDescription>
+    <slot>Adulthood</slot>
+    <spawnCategories>
+      <li>XennBackstory</li>
+    </spawnCategories>
+	<bodyTypeFemale>Female</bodyTypeFemale>
+	<bodyTypeMale>Male</bodyTypeMale>
+	<bodyTypeGlobal>Thin</bodyTypeGlobal>
+		<maleCommonality>20</maleCommonality>
+	<femaleCommonality>20</femaleCommonality>
+    <skillGains>
+      <li>
+        <defName>Intellectual</defName>
+        <amount>8</amount>
+      </li>
+	   <li>
+        <defName>Crafting</defName>
+        <amount>6</amount>
+      </li>
+	  	   <li>
+        <defName>Medicine</defName>
+        <amount>4</amount>
+      </li>
+    </skillGains>
+</AlienRace.BackstoryDef>
+
+<AlienRace.BackstoryDef>
+    <defName>XennRipKid</defName>
+    <title>Space kid</title>
+  	<titleShort>Rip</titleShort>
+    <baseDescription>NAME had an average childhood, earning a freighter pilot's license and a position as a Duty Warrant Officer aboard a commercial towing vessel, the Nostromo.
+    </baseDescription>
+    <slot>Childhood</slot>
+    <spawnCategories>
+      <li>XennBackstory</li>
+    </spawnCategories>
+	<bodyTypeFemale>Female</bodyTypeFemale>
+	<bodyTypeMale>Male</bodyTypeMale>
+		<maleCommonality>20</maleCommonality>
+	<femaleCommonality>20</femaleCommonality>
+    <skillGains>
+      <li>
+        <defName>Medicine</defName>
+        <amount>6</amount>
+      </li>
+	        <li>
+        <defName>Crafting</defName>
+        <amount>4</amount>
+      </li>
+    </skillGains>
+</AlienRace.BackstoryDef>
+
+<AlienRace.BackstoryDef>
+    <defName>XennRipAdult</defName>
+    <title>Survivor</title>
+	<titleShort>Survivor</titleShort>
+    <baseDescription>After being diverted to a strange mysterious planet, one of the crew was implanted with an alien embryo, which incubated within his body before bursting forth and terrorizing the crew. Over a short period of time, the creature killed NAME's crewmates. After a harrowing series of events, she managed to eject the stowaway from an airlock and escape. 
+    </baseDescription>
+    <slot>Adulthood</slot>
+    <spawnCategories>
+      <li>XennBackstory</li>
+    </spawnCategories>
+	<bodyTypeFemale>Female</bodyTypeFemale>
+	<bodyTypeMale>Male</bodyTypeMale>
+		<maleCommonality>20</maleCommonality>
+	<femaleCommonality>20</femaleCommonality>
+    <skillGains>
+      <li>
+        <defName>Shooting</defName>
+        <amount>8</amount>
+      </li>
+	   <li>
+        <defName>Crafting</defName>
+        <amount>6</amount>
+      </li>
+	  	   <li>
+        <defName>Medicine</defName>
+        <amount>4</amount>
+      </li>
+    </skillGains>
+</AlienRace.BackstoryDef>
+
+
+<AlienRace.BackstoryDef>
+    <defName>XennJackBKid</defName>
+    <title>Space trucker</title>
+	<titleShort>Trucker</titleShort>
+    <baseDescription>After an average adolescence, NAME spent many years roaming the galaxy as a long-haul driver. His off-beat bravado and open nature helped him make friends in many strange places.</baseDescription>
+    <slot>Childhood</slot>
+	<bodyTypeFemale>Female</bodyTypeFemale>
+	<bodyTypeMale>Male</bodyTypeMale>
+    <spawnCategories>
+      <li>XennBackstory</li>
+    </spawnCategories>
+    <skillGains>
+      <li>
+        <defName>Social</defName>
+        <amount>5</amount>
+      </li>
+	  <li>
+        <defName>Melee</defName>
+        <amount>6</amount>
+      </li>
+	  <li>
+        <defName>Medicine</defName>
+        <amount>4</amount>
+      </li>
+    </skillGains>
+</AlienRace.BackstoryDef>
+
+<AlienRace.BackstoryDef>
+    <defName>XennJackBAdt</defName>
+    <title>True hero</title>
+	<titleShort>Hero</titleShort>
+    <baseDescription>While visiting his old friend Wang on the planet Ching-Dai, bandits kidnap Wang's fiancee, setting off an incredible chain of events. They cross paths with an ancient cursed sorceror, Lo-Pan, who seeks to sacrifice the young girl to break his curse. After e series of chases, battles, and thoroughly shaking the pillars of heaven, Jack and Wang save the day - and Jack heads back off to his unending journey...
+    </baseDescription>
+    <slot>Adulthood</slot>
+	<bodyTypeFemale>Female</bodyTypeFemale>
+	<bodyTypeMale>Male</bodyTypeMale>
+	<maleCommonality>20</maleCommonality>
+	<femaleCommonality>20</femaleCommonality>
+    <spawnCategories>
+      <li>XennBackstory</li>
+    </spawnCategories>
+    <skillGains>
+      <li>
+        <defName>Social</defName>
+        <amount>2</amount>
+      </li>
+	  <li>
+        <defName>Melee</defName>
+        <amount>8</amount>
+      </li>
+	  <li>
+        <defName>Growing</defName>
+        <amount>4</amount>
+      </li>
+    </skillGains>
+      <forcedTraits>
+        <li>
+            <defname>Kind</defname>
+            <chance>100</chance>
+        </li>
+      </forcedTraits>
+</AlienRace.BackstoryDef>
+
+</Defs>

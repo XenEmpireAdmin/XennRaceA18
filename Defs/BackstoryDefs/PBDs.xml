@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<PawnBioDefs>
+
+<AlienRace.PawnBioDef>
+    <defName>XBio_KFCaine</defName>
+    <childhoodDef>XennMonkKidX</childhoodDef> 
+    <adulthoodDef>XennKaine</adulthoodDef>
+    <gender>Male</gender>
+    <name>
+      <first>Kwai-chang</first>
+      <last>Caine</last>
+      <nick>Caine</nick>
+    </name>
+    <validRaces>
+      <li>Alien_Xenn</li>
+    </validRaces>
+    <factionLeader>false</factionLeader>
+</AlienRace.PawnBioDef>
+
+<AlienRace.PawnBioDef>
+    <defName>XBio_XXX</defName>
+    <childhoodDef>XennCSKid</childhoodDef> 
+    <adulthoodDef>XennSaganAdult</adulthoodDef>
+    <gender>Male</gender>
+    <name>
+      <first>Carl</first>
+      <last>Sagan</last>
+      <nick>Sagan</nick>
+    </name>
+    <validRaces>
+      <li>Alien_Xenn</li>
+    </validRaces>
+    <factionLeader>false</factionLeader>
+</AlienRace.PawnBioDef>
+
+<AlienRace.PawnBioDef>
+    <defName>XBio_Ripley</defName>
+    <childhoodDef>XennRipKid</childhoodDef> 
+    <adulthoodDef>XennRipAdult</adulthoodDef>
+    <gender>Female</gender>
+    <name>
+      <first>Ellen</first>
+      <last>Ripley</last>
+      <nick>Ripley</nick>
+    </name>
+    <validRaces>
+      <li>Alien_Xenn</li>
+    </validRaces>
+    <factionLeader>false</factionLeader>
+</AlienRace.PawnBioDef>
+
+<AlienRace.PawnBioDef>
+    <defName>XBio_JBurt</defName>
+    <childhoodDef>XennJackBKid</childhoodDef> 
+    <adulthoodDef>XennJackBAdt</adulthoodDef>
+    <gender>Male</gender>
+    <name>
+      <first>Jack</first>
+      <last>Burton</last>
+      <nick>Jack</nick>
+    </name>
+    <validRaces>
+      <li>Alien_Xenn</li>
+    </validRaces>
+    <factionLeader>false</factionLeader>
+</AlienRace.PawnBioDef>
+
+
+</PawnBioDefs>

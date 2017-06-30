@@ -40,16 +40,16 @@
                 <li>
                     <defname>NaturalMood</defname>
                     <degree>2</degree>
-                    <chance>50</chance>
+                    <chance>20</chance>
                 </li>
                 <li>
                     <defname>Beauty</defname>
                     <degree>2</degree>
-                    <chance>50</chance>
+                    <chance>20</chance>
                 </li>
                 <li>
                     <defname>Kind</defname>
-					<chance>50</chance>
+					<chance>20</chance>
                 </li>
             </ForcedRaceTraitEntries>
             <alienPartGenerator>
