@@ -58,7 +58,6 @@
                 </aliencrowntypes>
                 <alienbodytypes>
                 </alienbodytypes>
-				<TailBodyPart>Tail</TailBodyPart>
                 <alienskincolorgen Class="ColorGenerator_Options">
                     <options>
              <li>
@@ -132,7 +131,46 @@
 			</li>
                     </options>
                 </alienskincolorgen>
-                <UseSkinColorForTail>true</UseSkinColorForTail>
+            <bodyAddons>
+            <li>
+				<path>Things/Xenn/Tails/TailX</path>
+                <bodyPart>Tail</bodyPart>
+                <UseSkinColor>true</UseSkinColor>
+                <inFrontOfBody>false</inFrontOfBody>
+                <offsets>
+                <front>
+                                    <bodyTypes>
+                                    <Male>(0,-0.22)</Male>
+                                    <Female>(0,-0.22)</Female>
+                                    <Fat>(0,-0.22)</Fat>
+                                    <Thin>(0,-0.22)</Thin>
+                                    </bodyTypes>
+                </front>
+
+                <back>
+                                    <bodyTypes>
+                                    <Male>(0,-0.25)</Male>
+                                    <Female>(0,-0.25)</Female>
+                                    <Fat>(0,-0.25)</Fat>
+                                    <Thin>(0,-0.25)</Thin>
+                                    </bodyTypes>
+                </back>
+
+                <side>
+                                    <bodyTypes>
+                                    <Male>(0,-0.22)</Male>
+                                    <Female>(0,-0.22)</Female>
+                                    <Fat>(0.02,-0.22)</Fat>
+                                    <Thin>(0,-0.22)</Thin>
+                                    </bodyTypes>
+                </side>
+                </offsets>
+                <hediffGraphics>
+                <BionicXennTail>Things/Xenn/Tails/TailXBionic</BionicXennTail>
+                </hediffGraphics>
+                </li>
+            </bodyAddons>
+
             </alienPartGenerator>
 			<chemicalSettings>	
 		    </chemicalSettings>
@@ -140,7 +178,6 @@
         <graphicPaths>
             <li>
                 <head>Things/Xenn/Heads/</head>
-				<Tail>Things/Xenn/Tails/TailX</Tail>
             </li>
         </graphicPaths>
         <hairSettings>

@@ -246,4 +246,68 @@
       </forcedTraits>
 </AlienRace.BackstoryDef>
 
+
+<AlienRace.BackstoryDef>
+    <defName>XennBarkKid</defName>
+    <title>Young barky</title>
+	<titleShort>Streamer</titleShort>
+    <baseDescription></baseDescription>
+    <slot>Childhood</slot>
+	<bodyTypeFemale>Female</bodyTypeFemale>
+	<bodyTypeMale>Male</bodyTypeMale>
+    <spawnCategories>
+      <li>XennBackstory</li>
+    </spawnCategories>
+    <skillGains>
+      <li>
+        <defName>Social</defName>
+        <amount>5</amount>
+      </li>
+	  <li>
+        <defName>Melee</defName>
+        <amount>6</amount>
+      </li>
+	  <li>
+        <defName>Medicine</defName>
+        <amount>4</amount>
+      </li>
+    </skillGains>
+</AlienRace.BackstoryDef>
+
+<AlienRace.BackstoryDef>
+    <defName>XennBarkAdt</defName>
+    <title>Displaced streamer</title>
+	<titleShort>Barky</titleShort>
+    <baseDescription>Somehow, NAME ended up here... Don't ask me how!
+    </baseDescription>
+    <slot>Adulthood</slot>
+	<bodyTypeFemale>Female</bodyTypeFemale>
+	<bodyTypeMale>Male</bodyTypeMale>
+	<maleCommonality>20</maleCommonality>
+	<femaleCommonality>20</femaleCommonality>
+    <spawnCategories>
+      <li>XennBackstory</li>
+    </spawnCategories>
+    <skillGains>
+      <li>
+        <defName>Social</defName>
+        <amount>5</amount>
+      </li>
+	  <li>
+        <defName>Melee</defName>
+        <amount>4</amount>
+      </li>
+	  <li>
+        <defName>Growing</defName>
+        <amount>4</amount>
+      </li>
+    </skillGains>
+      <forcedTraits>
+        <li>
+            <defname>Kind</defname>
+            <chance>100</chance>
+        </li>
+      </forcedTraits>
+</AlienRace.BackstoryDef>
+
 </Defs>

@@ -66,4 +66,19 @@
 </AlienRace.PawnBioDef>
 
 
+<AlienRace.PawnBioDef>
+    <defName>XBio_Barky</defName>
+    <childhoodDef>XennBarkKid</childhoodDef> 
+    <adulthoodDef>XennBarkAdt</adulthoodDef>
+    <gender>Male</gender>
+    <name>
+      <first>Barkus</first>
+      <last>McBarkie</last>
+      <nick>Barky</nick>
+    </name>
+    <validRaces>
+      <li>Alien_Xenn</li>
+    </validRaces>
+    <factionLeader>false</factionLeader>
+</AlienRace.PawnBioDef>
 </PawnBioDefs>

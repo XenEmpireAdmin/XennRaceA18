@@ -1,5 +1,6 @@
 Jade
 Sapphire
+Wolfy
 Kitt
 Dex
 Tya
