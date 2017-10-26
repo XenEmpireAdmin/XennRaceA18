@@ -4,7 +4,7 @@
     <defName>XennMonkKidX</defName>
     <title>Shaolin</title>
 	<titleShort>Grasshopper</titleShort>
-    <baseDescription>NAME was accepted for training at an ancient Shaolin monastery after his family died to various tragedies. He was raised by the blind master Po, who became his beloved mentor.</baseDescription>
+    <baseDescription>NAME was accepted for training at an ancient Shaolin monastery after HIS family died to various tragedies. HECAP was raised by the blind master Po, who became HIS beloved mentor.</baseDescription>
     <slot>Childhood</slot>
 	<bodyTypeFemale>Female</bodyTypeFemale>
 	<bodyTypeMale>Male</bodyTypeMale>
@@ -32,7 +32,7 @@
     <defName>XennKaine</defName>
     <title>Wandering monk</title>
 	<titleShort>Shaolin</titleShort>
-    <baseDescription>One day, Caine's beloved mentor and elder, Master Po, is murdered by the Emperor's nephew; outraged, Caine retaliates by killing the nephew. With a price on his head, Caine is forced to flee...
+    <baseDescription>One day, NAME's beloved mentor and elder, Master Po, is murdered by the Emperor's nephew; outraged, NAME retaliates by killing the nephew. With a price on HIS head, NAME is forced to flee...
     </baseDescription>
     <slot>Adulthood</slot>
 	<bodyTypeFemale>Female</bodyTypeFemale>
@@ -71,9 +71,9 @@
 
 <AlienRace.BackstoryDef>
     <defName>XennCSKid</defName>
-    <title>Young Astrophysicist</title>
+    <title>Young astrophysicist</title>
 	<titleShort>Astrokid</titleShort>
-    <baseDescription>A young Sagan was inspired by a visit to the World's Fair. Seeing all the amazing applications and explorations of science left a deep sense of awe and wonder at the mechanics of the universe. This started his path to astronomy and astrophysics.</baseDescription>
+    <baseDescription>A young NAME was inspired by a visit to the World's Fair. Seeing all the amazing applications and explorations of science left a deep sense of awe and wonder at the mechanics of the universe. This started HIS path to astronomy and astrophysics.</baseDescription>
     <slot>Childhood</slot>
     <spawnCategories>
       <li>XennBackstory</li>
@@ -99,7 +99,7 @@
     <defName>XennSaganAdult</defName>
     <title>Astrophysics professor</title>
 	<titleShort>Professor</titleShort>
-    <baseDescription>Over time, Sagan's passion for scientific discovery pushed him to write a multitude of books and other media devoted to astronomy and astrophysics (Over 595,000 items....SERIOUSLY not a joke). How did he end up here.... and so hairy? 
+    <baseDescription>Over time, NAME's passion for scientific discovery pushed HIM to write a multitude of books and other media devoted to astronomy and astrophysics.
     </baseDescription>
     <slot>Adulthood</slot>
     <spawnCategories>
@@ -156,7 +156,7 @@
     <defName>XennRipAdult</defName>
     <title>Survivor</title>
 	<titleShort>Survivor</titleShort>
-    <baseDescription>After being diverted to a strange mysterious planet, one of the crew was implanted with an alien embryo, which incubated within his body before bursting forth and terrorizing the crew. Over a short period of time, the creature killed NAME's crewmates. After a harrowing series of events, she managed to eject the stowaway from an airlock and escape. 
+    <baseDescription>After being diverted to a strange mysterious planet, one of NAME's crewmates was implanted with an alien embryo, which incubated within his body before bursting forth and terrorizing the crew. Over a short period of time, the creature killed NAME's crewmates. After a harrowing series of events, HE managed to eject the stowaway from an airlock and escape. 
     </baseDescription>
     <slot>Adulthood</slot>
     <spawnCategories>
@@ -187,7 +187,7 @@
     <defName>XennJackBKid</defName>
     <title>Space trucker</title>
 	<titleShort>Trucker</titleShort>
-    <baseDescription>After an average adolescence, NAME spent many years roaming the galaxy as a long-haul driver. His off-beat bravado and open nature helped him make friends in many strange places.</baseDescription>
+    <baseDescription>After an average adolescence, NAME spent many years roaming the galaxy as a long-haul driver. HIS off-beat bravado and open nature helped HIM make friends in many strange places.</baseDescription>
     <slot>Childhood</slot>
 	<bodyTypeFemale>Female</bodyTypeFemale>
 	<bodyTypeMale>Male</bodyTypeMale>
@@ -214,7 +214,7 @@
     <defName>XennJackBAdt</defName>
     <title>True hero</title>
 	<titleShort>Hero</titleShort>
-    <baseDescription>While visiting his old friend Wang on the planet Ching-Dai, bandits kidnap Wang's fiancee, setting off an incredible chain of events. They cross paths with an ancient cursed sorceror, Lo-Pan, who seeks to sacrifice the young girl to break his curse. After e series of chases, battles, and thoroughly shaking the pillars of heaven, Jack and Wang save the day - and Jack heads back off to his unending journey...
+    <baseDescription>While visiting HIS old friend Wang on the planet Ching-Dai, bandits kidnap Wang's fiancee, setting off an incredible chain of events. They cross paths with an ancient cursed sorceror, Lo-Pan, who seeks to sacrifice the young girl to break his curse. After a series of chases, battles, and thoroughly shaking the pillars of heaven, NAME and Wang save the day - and NAME heads back off to his unending journey...
     </baseDescription>
     <slot>Adulthood</slot>
 	<bodyTypeFemale>Female</bodyTypeFemale>
@@ -251,7 +251,7 @@
     <defName>XennBarkKid</defName>
     <title>Young barky</title>
 	<titleShort>Streamer</titleShort>
-    <baseDescription></baseDescription>
+    <baseDescription>NAME grew up in a hot southern region, dreaming of becoming a holonet star, or sometimes just Nachos. (Eating them, not becoming them)</baseDescription>
     <slot>Childhood</slot>
 	<bodyTypeFemale>Female</bodyTypeFemale>
 	<bodyTypeMale>Male</bodyTypeMale>
@@ -278,7 +278,7 @@
     <defName>XennBarkAdt</defName>
     <title>Displaced streamer</title>
 	<titleShort>Barky</titleShort>
-    <baseDescription>Somehow, NAME ended up here... Don't ask me how!
+    <baseDescription>NAME got established as a holonet personality, producing holovids and live holostreams. Somehow, NAME ended up here... Don't ask me how!
     </baseDescription>
     <slot>Adulthood</slot>
 	<bodyTypeFemale>Female</bodyTypeFemale>

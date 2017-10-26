@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<ThingDefs>
+<Defs>
 
 
   <ThingDef Name="BaseXennGun" Abstract="True" ParentName="BaseWeapon">
@@ -62,7 +62,7 @@
       <texPath>Things/Guns/Xenngunred</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
-    <soundInteract>InteractPistol</soundInteract>
+    <soundInteract>InteractAutopistol</soundInteract>
     <recipeMaker>
       <researchPrerequisite>ChargedShot</researchPrerequisite>
     </recipeMaker>
@@ -91,7 +91,7 @@
         </targetParams>
         <verbClass>Verb_Shoot</verbClass>
         <hasStandardCommand>true</hasStandardCommand>
-        <projectileDef>Bullet_FlameX</projectileDef>
+        <defaultProjectile>Bullet_FlameX</defaultProjectile>
         <warmupTime>1.53</warmupTime>
         <range>40</range>
         <soundCast>Xenngun</soundCast>
@@ -133,7 +133,7 @@
       <texPath>Things/Guns/Xenngunblue</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
-    <soundInteract>InteractPistol</soundInteract>
+    <soundInteract>InteractAutopistol</soundInteract>
     <recipeMaker>
       <researchPrerequisite>ChargedShot</researchPrerequisite>
     </recipeMaker>
@@ -158,7 +158,7 @@
         </targetParams>
         <verbClass>Verb_Shoot</verbClass>
         <hasStandardCommand>true</hasStandardCommand>
-        <projectileDef>Bullet_XenX</projectileDef>
+        <defaultProjectile>Bullet_XenX</defaultProjectile>
         <warmupTime>0.63</warmupTime>
         <range>50</range>
         <soundCast>Xenngun</soundCast>
@@ -174,4 +174,4 @@
     </weaponTags>
   </ThingDef>
   
- </ThingDefs> 
+ </Defs> 

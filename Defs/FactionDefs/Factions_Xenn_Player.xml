@@ -15,6 +15,9 @@
     <basicMemberKind>Xenn</basicMemberKind>
     <pawnsPlural>colonists</pawnsPlural>
     <factionNameMaker>NamerFactionOutlander</factionNameMaker>
+    <baseNameMaker>NamerFactionBasePlayerColony</baseNameMaker>
+		<baseNameMakerPlayer>NamerFactionPlayerColonyRandomized</baseNameMakerPlayer>
+		<factionNameMakerPlayer>NamerFactionBasePlayerColonyRandomized</factionNameMakerPlayer>
     <techLevel>Ultra</techLevel>
     <backstoryCategory>XennBackstory</backstoryCategory>
     <homeIconPath>World/XennBaseIcon</homeIconPath>
@@ -41,6 +44,9 @@
     <basicMemberKind>Xenn</basicMemberKind>
     <pawnsPlural>colonists</pawnsPlural>
     <factionNameMaker>NamerFactionOutlander</factionNameMaker>
+    <baseNameMaker>NamerFactionBasePlayerColony</baseNameMaker>
+		<baseNameMakerPlayer>NamerFactionPlayerColonyRandomized</baseNameMakerPlayer>
+		<factionNameMakerPlayer>NamerFactionBasePlayerColonyRandomized</factionNameMakerPlayer>
     <techLevel>Ultra</techLevel>
     <backstoryCategory>XennBackstory</backstoryCategory>
     <homeIconPath>World/XennBaseIcon</homeIconPath>

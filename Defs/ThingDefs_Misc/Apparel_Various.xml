@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
-<ThingDefs>
+<Defs>
 
 		
 		
@@ -78,7 +78,7 @@
 		<li>Arms</li>
         <li>Legs</li>
       </bodyPartGroups>
-	  <worngraphicPath>XennArmor/DustArmor/ArmorDuster</worngraphicPath>
+	  <wornGraphicPath>XennArmor/DustArmor/ArmorDuster</wornGraphicPath>
       <layers>
         <li>Shell</li>
       </layers>
@@ -132,7 +132,7 @@
 		<li>Arms</li>
         <li>Legs</li>
       </bodyPartGroups>
-	  <worngraphicPath>XennArmor/DustArmor/ArcArmorDuster</worngraphicPath>
+	  <wornGraphicPath>XennArmor/DustArmor/ArcArmorDuster</wornGraphicPath>
       <layers>
         <li>Shell</li>
       </layers>
@@ -186,7 +186,7 @@
 		<li>Arms</li>
         <li>Legs</li>
       </bodyPartGroups>
-	  <worngraphicPath>XennArmor/DustArmor/JArmorDuster</worngraphicPath>
+	  <wornGraphicPath>XennArmor/DustArmor/JArmorDuster</wornGraphicPath>
       <layers>
         <li>Shell</li>
       </layers>
@@ -241,7 +241,7 @@
 			<bodyPartGroups>
 				<li>FullHead</li>
 			</bodyPartGroups>
-			<worngraphicPath>XennArmor/Coolguy/CoolGlasses</worngraphicPath>
+			<wornGraphicPath>XennArmor/Coolguy/CoolGlasses</wornGraphicPath>
 			<layers>
 				<li>Overhead</li>
 			</layers>
@@ -256,4 +256,4 @@
 	</ThingDef>
 	
 	
-</ThingDefs>
+</Defs>
