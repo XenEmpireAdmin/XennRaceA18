@@ -37,9 +37,9 @@
     <description>A mysterious lupine race, known for reverse-engineering technology from other races.</description>
     <alienRace>
         <generalSettings>
-            <MaleGenderProbability>0.5</MaleGenderProbability>
-            <PawnsSpecificBackstories>true</PawnsSpecificBackstories>
-            <ImmuneToAge>true</ImmuneToAge>
+            <maleGenderProbability>0.5</maleGenderProbability>
+            <pawnsSpecificBackstories>true</pawnsSpecificBackstories>
+            <immuneToAge>true</immuneToAge>
             <forcedRaceTraitEntries>
                 <li>
                     <defname>NaturalMood</defname>
@@ -139,7 +139,7 @@
             <li>
 				<path>Things/Xenn/Tails/TailX</path>
                 <bodyPart>Tail</bodyPart>
-                <UseSkinColor>true</UseSkinColor>
+                <useSkinColor>true</useSkinColor>
                 <inFrontOfBody>false</inFrontOfBody>
                 <offsets>
                 <front>
@@ -185,7 +185,7 @@
             </li>
         </graphicPaths>
         <hairSettings>
-            <HasHair>false</HasHair>
+            <hasHair>false</hasHair>
         </hairSettings>
         <pawnKindSettings>
             <alienslavekinds>

@@ -7,11 +7,11 @@
     <defaultFactionType>XennEmpire</defaultFactionType>
     <race>Alien_Xenn</race>
 	<backstoryCategory>XennBackstory</backstoryCategory>
-    <chemicalAddictionChance>0.005</chemicalAddictionChance>
+    <chemicalAddictionChance>0.01</chemicalAddictionChance>
     <baseRecruitDifficulty>0.60</baseRecruitDifficulty>
     <apparelAllowHeadwearChance>0</apparelAllowHeadwearChance>
     <apparelTags>
-      <li>Outlander</li>
+    <li>Outlander</li>
 	  <li>XennSoldier</li>
     </apparelTags>
 	 <weaponTags>
@@ -40,8 +40,7 @@
     </weaponMoney>
     <weaponTags>
       <li>Gun</li>
-      <li>Melee</li>
-	  <li>XennRifle</li>
+      <li>NonNeolithicOnlyMelee</li>
     </weaponTags>
     <techHediffsMoney>
       <min>200</min>
@@ -127,9 +126,6 @@
       <min>1400</min>
       <max>38000</max>
     </weaponMoney>
-    <weaponTags>
-	  <li>XennRifle</li>
-    </weaponTags>
     <techHediffsMoney>
       <min>200</min>
       <max>5000</max>
@@ -159,7 +155,7 @@
     <invNutrition>2.55</invNutrition>
     <itemQuality>Normal</itemQuality>
 	<minGenerationAge>19</minGenerationAge>
-    <maxGenerationAge>250</maxGenerationAge>
+    <maxGenerationAge>46</maxGenerationAge>
     <gearHealthRange>
       <min>0.7</min>
       <max>2.3</max>
@@ -177,9 +173,6 @@
       <min>1400</min>
       <max>20000</max>
     </weaponMoney>
-    <weaponTags>
-	  <li>XennRifle</li>
-    </weaponTags>
     <techHediffsMoney>
       <min>1000</min>
       <max>15000</max>
@@ -238,7 +231,6 @@
     </weaponMoney>
     <weaponTags>
       <li>SniperRifle</li>
-	  <li>XennRifle</li>
     </weaponTags>
     <techHediffsMoney>
       <min>1000</min>
@@ -296,10 +288,6 @@
       <min>1400</min>
       <max>28000</max>
     </weaponMoney>
-    <weaponTags>
-      <li>Gun</li>
-	  <li>XennRifle</li>
-    </weaponTags>
     <techHediffsMoney>
       <min>2000</min>
       <max>30000</max>
@@ -353,7 +341,6 @@
       <max>28000</max>
     </weaponMoney>
     <weaponTags>
-	  <li>XennRifle</li>
 	  <li>EliteGun</li>
       <li>AdvancedGun</li>
     </weaponTags>

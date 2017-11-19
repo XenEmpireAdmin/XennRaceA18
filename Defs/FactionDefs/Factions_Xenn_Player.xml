@@ -14,7 +14,6 @@
     <isPlayer>true</isPlayer>
     <basicMemberKind>Xenn</basicMemberKind>
     <pawnsPlural>colonists</pawnsPlural>
-    <factionNameMaker>NamerFactionOutlander</factionNameMaker>
     <baseNameMaker>NamerFactionBasePlayerColony</baseNameMaker>
 		<baseNameMakerPlayer>NamerFactionPlayerColonyRandomized</baseNameMakerPlayer>
 		<factionNameMakerPlayer>NamerFactionBasePlayerColonyRandomized</factionNameMakerPlayer>
@@ -43,7 +42,6 @@
     <isPlayer>true</isPlayer>
     <basicMemberKind>Xenn</basicMemberKind>
     <pawnsPlural>colonists</pawnsPlural>
-    <factionNameMaker>NamerFactionOutlander</factionNameMaker>
     <baseNameMaker>NamerFactionBasePlayerColony</baseNameMaker>
 		<baseNameMakerPlayer>NamerFactionPlayerColonyRandomized</baseNameMakerPlayer>
 		<factionNameMakerPlayer>NamerFactionBasePlayerColonyRandomized</factionNameMakerPlayer>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+<AlienRace.BackstoryDef>
+    <defName>XenGen1C</defName>
+    <title>Apprentice carpenter</title>
+	<titleShort>Apprentice</titleShort>
+    <baseDescription>NAME worked with HIS father, a local handyman and master carpenter, somewhat famous among local ALIENRACE. NAME learned much from HIS father, though HE seemed to have a deeper talent for landscaping and garden design.</baseDescription>
+    <slot>Childhood</slot>
+	<bodyTypeGlobal>Thin</bodyTypeGlobal>
+    <spawnCategories>
+      <li>XenBackstory</li>
+    </spawnCategories>
+    <skillGains>
+      <li>
+        <defName>Construction</defName>
+        <amount>4</amount>
+      </li>
+	  <li>
+        <defName>Melee</defName>
+        <amount>3</amount>
+      </li>
+	  <li>
+        <defName>Growing</defName>
+        <amount>5</amount>
+      </li>
+    </skillGains>
+</AlienRace.BackstoryDef>
+
+<AlienRace.BackstoryDef>
+    <defName>XenGen1A</defName>
+    <title>Landscape designer</title>
+	<titleShort>Landscaper</titleShort>
+    <baseDescription>NAME opened a landscaping business, rising to fame after winning a contract with the local ALIENRACE government to redesign the landscape of several public facilities. NAME's library courtyard and parks became fast favorites among the populous.
+    </baseDescription>
+    <slot>Adulthood</slot>
+	<bodyTypeGlobal>Thin</bodyTypeGlobal>
+	<maleCommonality>20</maleCommonality>
+	<femaleCommonality>20</femaleCommonality>
+    <spawnCategories>
+      <li>XenBackstory</li>
+    </spawnCategories>
+    <skillGains>
+      <li>
+        <defName>Social</defName>
+        <amount>2</amount>
+      </li>
+      <li>
+        <defName>Construction</defName>
+        <amount>2</amount>
+      </li>
+	    <li>
+        <defName>Melee</defName>
+        <amount>6</amount>
+      </li>
+	    <li>
+        <defName>Growing</defName>
+        <amount>4</amount>
+      </li>
+    </skillGains>
+      <forcedTraits>
+        <li>
+            <defname>GreenThumb</defname>
+            <chance>100</chance>
+        </li>
+        <li>
+            <defname>Kind</defname>
+            <chance>100</chance>
+        </li>
+      </forcedTraits>
+</AlienRace.BackstoryDef>
+
+<AlienRace.BackstoryDef>
+    <defName>XenGen2C</defName>
+    <title>Young tinker</title>
+	<titleShort>Tinker</titleShort>
+    <baseDescription>NAME loved inventions and machines, ever-curious about how things work. HECAP developed an incredible skill for maintaining and repairing all sorts of things.</baseDescription>
+    <slot>Childhood</slot>
+    <spawnCategories>
+      <li>XenBackstory</li>
+    </spawnCategories>
+	<bodyTypeFemale>Female</bodyTypeFemale>
+	<bodyTypeMale>Male</bodyTypeMale>
+	<bodyTypeGlobal>Thin</bodyTypeGlobal>
+		<maleCommonality>20</maleCommonality>
+	<femaleCommonality>20</femaleCommonality>
+    <skillGains>
+      <li>
+        <defName>Intellectual</defName>
+        <amount>6</amount>
+      </li>
+	        <li>
+        <defName>Crafting</defName>
+        <amount>5</amount>
+      </li>
+    </skillGains>
+</AlienRace.BackstoryDef>
+
+<AlienRace.BackstoryDef>
+    <defName>XenGen2A</defName>
+    <title>Master inventor</title>
+	<titleShort>Inventor</titleShort>
+    <baseDescription>NAME turned a HIS talents with machines into a few successful patents, freeing time to invent, create, and learn.
+    </baseDescription>
+    <slot>Adulthood</slot>
+    <spawnCategories>
+      <li>XenBackstory</li>
+    </spawnCategories>
+	<bodyTypeFemale>Female</bodyTypeFemale>
+	<bodyTypeMale>Male</bodyTypeMale>
+	<bodyTypeGlobal>Thin</bodyTypeGlobal>
+		<maleCommonality>20</maleCommonality>
+	<femaleCommonality>20</femaleCommonality>
+    <skillGains>
+      <li>
+        <defName>Intellectual</defName>
+        <amount>8</amount>
+      </li>
+	   <li>
+        <defName>Crafting</defName>
+        <amount>6</amount>
+      </li>
+	  	   <li>
+        <defName>Medicine</defName>
+        <amount>4</amount>
+      </li>
+    </skillGains>
+</AlienRace.BackstoryDef>
+
+</Defs>

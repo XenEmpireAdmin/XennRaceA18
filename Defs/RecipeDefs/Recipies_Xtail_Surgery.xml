@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <Defs>  
-  <RecipeDef Abstract="True" Name="SurgeryFlesh">
+  <RecipeDef Abstract="True" Name="SurgeryXnFlesh">
     <effectWorking>Surgery</effectWorking>
     <soundWorking>Recipe_Surgery</soundWorking>
     <workSpeedStat>MedicalOperationSpeed</workSpeedStat>
@@ -9,7 +9,7 @@
     <workSkillLearnFactor>16</workSkillLearnFactor>
   </RecipeDef>
 
-  <RecipeDef Name="SurgeryXTails" ParentName="SurgeryFlesh" Abstract="True">
+  <RecipeDef Name="SurgeryXTails" ParentName="SurgeryXnFlesh" Abstract="True">
   <recipeUsers>
   <li>Alien_Xenn</li>
   </recipeUsers>
@@ -54,7 +54,7 @@
    </RecipeDef>
 
  <RecipeDef ParentName="SurgeryXTails">
-      <defName>InstallClothTail</defName>
+      <defName>InstallClothXTail</defName>
       <label>install cloth tail</label>
       <description>Installs cloth tail.</description>
       <workerClass>Recipe_InstallArtificialBodyPart</workerClass>

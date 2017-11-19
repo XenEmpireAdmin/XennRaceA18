@@ -15,6 +15,7 @@
     <label>colonist</label>
     <defaultFactionType>XennPlayerColony</defaultFactionType>
     <backstoryCategory>XennBackstory</backstoryCategory>
+    <chemicalAddictionChance>0.01</chemicalAddictionChance>
     <apparelTags>
       <li>Spacer</li>
     </apparelTags>
