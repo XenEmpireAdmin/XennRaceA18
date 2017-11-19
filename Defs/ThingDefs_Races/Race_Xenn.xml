@@ -371,7 +371,11 @@
         </li>
         <li>
           <def>AncestorStageXenn</def>
-          <minAge>1000</minAge>
+          <minAge>650</minAge>
+        </li>
+        <li>
+            <def>ProgenitorStageXenn</def>
+            <minAge>1000</minAge>
         </li>
       </lifeStageAges>
       <soundMeleeHitPawn>Pawn_Melee_Punch_HitPawn</soundMeleeHitPawn>
