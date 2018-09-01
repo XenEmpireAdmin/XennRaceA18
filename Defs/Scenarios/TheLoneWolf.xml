@@ -45,12 +45,12 @@ Note: Since your starting character will lack some skills, this is an especially
 			</li>
 			<li Class="ScenPart_StartingThing_Defined">
 				<def>StartingThing_Defined</def>
-				<thingDef>GlitterworldMedicine</thingDef>
+				<thingDef>MedicineUltratech</thingDef>
 				<count>30</count>
 			</li>
 			<li Class="ScenPart_StartingThing_Defined">
 				<def>StartingThing_Defined</def>
-				<thingDef>Component</thingDef>
+				<thingDef>ComponentIndustrial</thingDef>
 				<count>30</count>
 			</li>
 			<li Class="ScenPart_StartingThing_Defined">

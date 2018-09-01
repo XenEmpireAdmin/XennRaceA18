@@ -5,7 +5,7 @@
     <defName>XennPraetor</defName>
     <title>Praetor</title>
 	<titleShort>Praetor</titleShort>
-    <baseDescription>NAME was born in an ancient monastery devoted to martial arts. HECAP was raised to master various forms of physical combat and extend his physical limitations.</baseDescription>
+    <baseDescription>[PAWN_nameDef] was born in an ancient monastery devoted to martial arts. [PAWN_pronoun] was raised to master various forms of physical combat and extend his physical limitations.</baseDescription>
     <slot>Childhood</slot>
 	<bodyTypeFemale>Female</bodyTypeFemale>
 	<bodyTypeMale>Male</bodyTypeMale>
@@ -25,7 +25,7 @@
         <amount>4</amount>
       </li>
 	  <li>
-        <defName>Growing</defName>
+        <defName>Plants</defName>
         <amount>4</amount>
       </li>
     </skillGains>
@@ -39,7 +39,7 @@
     <defName>XennBullykid</defName>
     <title>Bully</title>
 	<titleShort>Bully</titleShort>
-    <baseDescription>NAME grew faster than HIS young peers, and took advantage of the fact. HECAP was often found bullying the other kids. HECAP grew out of it... mostly, but was left a bit socially stunted as a result.</baseDescription>
+    <baseDescription>[PAWN_nameDef] grew faster than [PAWN_possessive] young peers, and took advantage of the fact. [PAWN_pronoun] was often found bullying the other kids. [PAWN_pronoun] grew out of it... mostly, but was left a bit socially stunted as a result.</baseDescription>
     <slot>Childhood</slot>
 	<bodyTypeFemale>Female</bodyTypeFemale>
 	<bodyTypeMale>Male</bodyTypeMale>
@@ -59,7 +59,7 @@
         <amount>4</amount>
       </li>
 	  <li>
-        <defName>Growing</defName>
+        <defName>Plants</defName>
         <amount>2</amount>
       </li>
     </skillGains>
@@ -73,7 +73,7 @@
     <defName>XennArtificis</defName>
     <title>Artificis</title>
 	<titleShort>Artificis</titleShort>
-    <baseDescription>In the core planets of the Xenn Empire, those with a natural talent for building and architecture are put into the Aedificarem, a school and training program established to produce fine architects. NAME spent HIS childhood learning about various building materials, architecture, and the societies that employed them.</baseDescription>
+    <baseDescription>In the core planets of the Xenn Empire, those with a natural talent for building and architecture are put into the Aedificarem, a school and training program established to produce fine architects. [PAWN_nameDef] spent [PAWN_possessive] childhood learning about various building materials, architecture, and the societies that employed them.</baseDescription>
     <slot>Childhood</slot>
     <spawnCategories>
       <li>XennBackstory</li>
@@ -125,7 +125,7 @@
     <defName>XennEngineer</defName>
     <title>Naturae</title>
 	<titleShort>Naturae</titleShort>
-    <baseDescription>In the core planets of the Xenn Empire, those with a natural talent for Science are put into the Laboratorium, the premiere scientific institute of the Xenn Empire. NAME spent HIS childhood learning all the scientific disciplines and methods, with a heavy focus on biology and ecology.</baseDescription>
+    <baseDescription>In the core planets of the Xenn Empire, those with a natural talent for Science are put into the Laboratorium, the premiere scientific institute of the Xenn Empire. [PAWN_nameDef] spent [PAWN_possessive] childhood learning all the scientific disciplines and methods, with a heavy focus on biology and ecology.</baseDescription>
     <slot>Childhood</slot>
     <spawnCategories>
       <li>XennBackstory</li>
@@ -181,7 +181,7 @@
     <defName>XennArtkid</defName>
     <title>Natural artist</title>
 	<titleShort>Artist</titleShort>
-    <baseDescription>NAME was always doodling or sculpting, and HIS talent quickly flowered into a great natural ability for art, winning prizes at many regional "young artist's" exhibits. </baseDescription>
+    <baseDescription>[PAWN_nameDef] was always doodling or sculpting, and [PAWN_possessive] talent quickly flowered into a great natural ability for art, winning prizes at many regional "young artist's" exhibits. </baseDescription>
     <slot>Childhood</slot>
     <spawnCategories>
       <li>XennBackstory</li>
@@ -207,7 +207,7 @@
     <defName>XennSpacer</defName>
     <title>Spacer xenn</title>
     <titleShort>Spacerx</titleShort>
-    <baseDescription>NAME was born on the family's moving home - a sublight long-haul cargo cruiser. HECAP grew up learning to wheel, deal, and steal ("only when necessary!" said pop) enough to keep the ship in spaceworthy condition and delivering cargo on schedule.</baseDescription>
+    <baseDescription>[PAWN_nameDef] was born on the family's moving home - a sublight long-haul cargo cruiser. [PAWN_pronoun] grew up learning to wheel, deal, and steal ("only when necessary!" said pop) enough to keep the ship in spaceworthy condition and delivering cargo on schedule.</baseDescription>
     <slot>Childhood</slot>
 	<bodyTypeFemale>Female</bodyTypeFemale>
 	<bodyTypeMale>Male</bodyTypeMale>
@@ -236,7 +236,7 @@
     <defName>XennFire</defName>
     <title>Alien fire survivor</title>
     <titleShort>Pyrophobe</titleShort>
-    <baseDescription>Rescued from the edge of a forest fire, NAME was taken in and raised by an old farmer and his wife. Though HECAP never got the hang of farming, HIS great strength was a life-saver for the elderly Kents...</baseDescription>
+    <baseDescription>Rescued from the edge of a forest fire, [PAWN_nameDef] was taken in and raised by an old farmer and his wife. Though [PAWN_pronoun] never got the hang of farming, [PAWN_possessive] great strength was a life-saver for the elderly Kents...</baseDescription>
     <slot>Childhood</slot>
     <bodyTypeGlobal>Hulk</bodyTypeGlobal>
 		<maleCommonality>20</maleCommonality>
@@ -246,7 +246,7 @@
     </spawnCategories>
     <skillGains>
           <li>
-        <defName>Growing</defName>
+        <defName>Plants</defName>
         <amount>-6</amount>
       </li>
       <li>
@@ -272,7 +272,7 @@
     <defName>XennColonyKid</defName>
     <title>Xenn colonykid</title>
     <titleShort>Kid</titleShort>
-    <baseDescription>NAME was born in a small trading post on the outer rims of the Xenn Empire. HECAP had to learn to carry HIS weight and keep the colony running from an early age.</baseDescription>
+    <baseDescription>[PAWN_nameDef] was born in a small trading post on the outer rims of the Xenn Empire. [PAWN_pronoun] had to learn to carry [PAWN_possessive] weight and keep the colony running from an early age.</baseDescription>
     <slot>Childhood</slot>
 	<bodyTypeFemale>Female</bodyTypeFemale>
 	<bodyTypeMale>Male</bodyTypeMale>
@@ -289,7 +289,7 @@
         <amount>1</amount>
       </li>
       <li>
-        <defName>Growing</defName>
+        <defName>Plants</defName>
         <amount>2</amount>
       </li>
     </skillGains>
@@ -302,7 +302,7 @@
     <defName>XennCoreKid</defName>
     <title>Xenn corekid</title>
     <titleShort>Corekid</titleShort>
-    <baseDescription>NAME was born on one of the core ecumenopolis in the Xenn Empire. HECAP grew up in one of the many arcologies, spending much of HIS time in the upper-level arboretums.</baseDescription>
+    <baseDescription>[PAWN_nameDef] was born on one of the core ecumenopolis in the Xenn Empire. [PAWN_pronoun] grew up in one of the many arcologies, spending much of [PAWN_possessive] time in the upper-level arboretums.</baseDescription>
     <bodyTypeMale>Thin</bodyTypeMale>
     <bodyTypeFemale>Thin</bodyTypeFemale>
 		<maleCommonality>90</maleCommonality>
@@ -314,7 +314,7 @@
         <amount>2</amount>
       </li>
 	  <li>
-        <defName>Growing</defName>
+        <defName>Plants</defName>
         <amount>4</amount>
       </li>
     </skillGains>
@@ -328,13 +328,13 @@
     <defName>XennDigKid</defName>
     <title>Xenn digger-kid</title>
     <titleShort>Diggerkid</titleShort>
-    <baseDescription>NAME was always playing in the sandbox, or building in the mud, or otherwise finding excuses to make holes in the ground.</baseDescription>
+    <baseDescription>[PAWN_nameDef] was always playing in the sandbox, or building in the mud, or otherwise finding excuses to make holes in the ground.</baseDescription>
 	<maleCommonality>20</maleCommonality>
 	<femaleCommonality>20</femaleCommonality>
 	<slot>Childhood</slot>
     <skillGains>
       <li>
-        <defName>Growing</defName>
+        <defName>Plants</defName>
         <amount>2</amount>
       </li>
 	  <li>
@@ -356,7 +356,7 @@
     <defName>XennToymaker</defName>
     <title>Toymaker</title>
     <titleShort>Toymaker</titleShort>
-    <baseDescription>NAME found HECAP had a natural talent for making delicate items such as small gears, and inscribing beautiful designs. HECAP has made a name as an accomplished toymaker.</baseDescription>
+    <baseDescription>[PAWN_nameDef] found [PAWN_pronoun] had a natural talent for making delicate items such as small gears, and inscribing beautiful designs. [PAWN_pronoun] has made a name as an accomplished toymaker.</baseDescription>
     <bodyTypeMale>Male</bodyTypeMale>
     <bodyTypeFemale>Female</bodyTypeFemale>
 		<maleCommonality>20</maleCommonality>
@@ -381,7 +381,7 @@
     <defName>XennSexSlave</defName>
     <title>Sex slave</title>
     <titleShort>Sextoy</titleShort>
-    <baseDescription>NAME was captured by slavers and sold into sexual slavery. HECAP was forced to tend the gardens, and do all sorts of lewd acts for HIS 'owner', but grew accustomed to the otherwise lavish environment, and spoiled as far as labor is concerned.</baseDescription>
+    <baseDescription>[PAWN_nameDef] was captured by slavers and sold into sexual slavery. [PAWN_pronoun] was forced to tend the gardens, and do all sorts of lewd acts for [PAWN_possessive] 'owner', but grew accustomed to the otherwise lavish environment, and spoiled as far as labor is concerned.</baseDescription>
     <bodyTypeMale>Male</bodyTypeMale>
     <bodyTypeFemale>Female</bodyTypeFemale>
 		<maleCommonality>10</maleCommonality>
@@ -397,7 +397,7 @@
         <amount>5</amount>
       </li>
 	   <li>
-        <defName>Growing</defName>
+        <defName>Plants</defName>
         <amount>4</amount>
       </li>
     </skillGains>
@@ -410,7 +410,7 @@
     <defName>XennLasminer</defName>
     <title>Xenn lasminer</title>
     <titleShort>Lasminer</titleShort>
-    <baseDescription>NAME operated a laser-mining rig at an advanced asteroidal mining station, and occasionally operated manual equipment when they'd pumped atmosphere into a particularly rich shaft. HECAP developed a strong back and keen eye with HIS laser-drill.</baseDescription>
+    <baseDescription>[PAWN_nameDef] operated a laser-mining rig at an advanced asteroidal mining station, and occasionally operated manual equipment when they'd pumped atmosphere into a particularly rich shaft. [PAWN_pronoun] developed a strong back and keen eye with [PAWN_possessive] laser-drill.</baseDescription>
     <bodyTypeMale>Male</bodyTypeMale>
     <bodyTypeFemale>Female</bodyTypeFemale>
 		<maleCommonality>30</maleCommonality>
@@ -436,7 +436,7 @@
     <defName>XennBiogen</defName>
     <title>Geneticist</title>
     <titleShort>Geneticist</titleShort>
-    <baseDescription>NAME is a bio-Intellectualer for the Xenn Empire. HECAP has dedicated HIS life to unravelling the genome and improving HIS race... FOR SCIENCE!!!</baseDescription>
+    <baseDescription>[PAWN_nameDef] is a bio-Intellectualer for the Xenn Empire. [PAWN_pronoun] has dedicated [PAWN_possessive] life to unravelling the genome and improving [PAWN_possessive] race... FOR SCIENCE!!!</baseDescription>
     <bodyTypeGlobal>Thin</bodyTypeGlobal>
 		<maleCommonality>20</maleCommonality>
 	<femaleCommonality>20</femaleCommonality>
@@ -460,7 +460,7 @@
     <defName>XennHunterBS</defName>
     <title>Xenn hunter</title>
     <titleShort>Hunter</titleShort>
-    <baseDescription>NAME is a professional hunter. Sometimes called to put down manhunters, or guide rich dentists on Safari, HIS skills as a tracker are only matched by HIS skill at handling.</baseDescription>
+    <baseDescription>[PAWN_nameDef] is a professional hunter. Sometimes called to put down manhunters, or guide rich dentists on Safari, [PAWN_possessive] skills as a tracker are only matched by [PAWN_possessive] skill at handling.</baseDescription>
     <bodyTypeMale>Male</bodyTypeMale>
     <bodyTypeFemale>Female</bodyTypeFemale>
 		<maleCommonality>25</maleCommonality>
@@ -490,7 +490,7 @@
     <defName>XennXguanabreed</defName>
     <title>Xenguana breeder</title>
     <titleShort>Herpetoculturist</titleShort>
-    <baseDescription>NAME has spent many years breeding reptiles, especially the Xenguana, which requires somewhat special handling due to it's rapid reproductive rate. This experience has given HIM a great deal of insight into certain animal behaviours.</baseDescription>
+    <baseDescription>[PAWN_nameDef] has spent many years breeding reptiles, especially the Xenguana, which requires somewhat special handling due to it's rapid reproductive rate. This experience has given [PAWN_pronoun] a great deal of insight into certain animal behaviours.</baseDescription>
     <bodyTypeMale>Male</bodyTypeMale>
     <bodyTypeFemale>Female</bodyTypeFemale>
 		<maleCommonality>20</maleCommonality>
@@ -515,7 +515,7 @@
     <defName>XennTrailblazer</defName>
     <title>Trail blazer</title>
     <titleShort>Blazer</titleShort>
-    <baseDescription>NAME is at the forefront of the effort to expand the Xenn Empire - rushing headlong into the unknown to colonize uncharted worlds and eke out a living.</baseDescription>
+    <baseDescription>[PAWN_nameDef] is at the forefront of the effort to expand the Xenn Empire - rushing headlong into the unknown to colonize uncharted worlds and eke out a living.</baseDescription>
     <bodyTypeMale>Male</bodyTypeMale>
     <bodyTypeFemale>Female</bodyTypeFemale>
 		<maleCommonality>30</maleCommonality>
@@ -527,7 +527,7 @@
         <amount>3</amount>
       </li>
       <li>
-        <defName>Growing</defName>
+        <defName>Plants</defName>
         <amount>3</amount>
       </li>
       <li>
@@ -545,7 +545,7 @@
     <defName>XennClerk</defName>
     <title>Desk clerk</title>
     <titleShort>Clerk</titleShort>
-    <baseDescription>NAME was a clerk in an office, filing paperwork, submitting reports. During HIS downtime, HECAP would read and study various subjects on the global network through his workstation terminal. This left HIM with an unquenchable thirst for knowledge.</baseDescription>
+    <baseDescription>[PAWN_nameDef] was a clerk in an office, filing paperwork, submitting reports. During [PAWN_possessive] downtime, [PAWN_pronoun] would read and study various subjects on the global network through his workstation terminal. This left [PAWN_pronoun] with an unquenchable thirst for knowledge.</baseDescription>
     <bodyTypeMale>Male</bodyTypeMale>
     <bodyTypeFemale>Female</bodyTypeFemale>
 		<maleCommonality>20</maleCommonality>
@@ -570,7 +570,7 @@
     <defName>XennDoctor</defName>
     <title>Xenn doctor</title>
     <titleShort>Doctor</titleShort>
-    <baseDescription>NAME has taken an oath to devote HIS life to healing others.</baseDescription>
+    <baseDescription>[PAWN_nameDef] has taken an oath to devote [PAWN_possessive] life to healing others.</baseDescription>
     <bodyTypeMale>Male</bodyTypeMale>
     <bodyTypeFemale>Female</bodyTypeFemale>
 		<maleCommonality>25</maleCommonality>
@@ -591,7 +591,7 @@
     <defName>XennChef</defName>
     <title>Xenn saucier</title>
     <titleShort>Saucier</titleShort>
-    <baseDescription>NAME is a saucier, a master chef who specializes in sauces, stews, hot hors d'œuvres, and sautés. HECAP has helped prepare meals for some of the highest functionaries in Xenn society.</baseDescription>
+    <baseDescription>[PAWN_nameDef] is a saucier, a master chef who specializes in sauces, stews, hot hors d'œuvres, and sautés. [PAWN_pronoun] has helped prepare meals for some of the highest functionaries in Xenn society.</baseDescription>
     <bodyTypeMale>Male</bodyTypeMale>
     <bodyTypeFemale>Female</bodyTypeFemale>
 		<maleCommonality>30</maleCommonality>
@@ -612,7 +612,7 @@
     <defName>XennPackLead</defName>
     <title>Xenn pack alpha</title>
     <titleShort>Alpha</titleShort>
-    <baseDescription>NAME bears the burden of leadership among HIS community. Xenn often form tight-knit tribal groups, centered around an Alpha- who is generally the most fit, capable, and wise among the group. Among HIS peers, NAME is that leader.</baseDescription>
+    <baseDescription>[PAWN_nameDef] bears the burden of leadership among [PAWN_possessive] community. Xenn often form tight-knit tribal groups, centered around an Alpha- who is generally the most fit, capable, and wise among the group. Among [PAWN_possessive] peers, [PAWN_nameDef] is that leader.</baseDescription>
     <bodyTypeMale>Male</bodyTypeMale>
     <bodyTypeFemale>Female</bodyTypeFemale>
 		<maleCommonality>20</maleCommonality>
@@ -641,7 +641,7 @@
     <defName>PrivateXenn</defName>
     <title>Army private</title>
     <titleShort>Private</titleShort>
-    <baseDescription>NAME is a rank-and-file soldier for the Xenn Empire. HECAP had served HIS term of service without incident.... until now.</baseDescription>
+    <baseDescription>[PAWN_nameDef] is a rank-and-file soldier for the Xenn Empire. [PAWN_pronoun] had served [PAWN_possessive] term of service without incident.... until now.</baseDescription>
     <bodyTypeMale>Male</bodyTypeMale>
     <bodyTypeFemale>Female</bodyTypeFemale>
 		<maleCommonality>30</maleCommonality>
@@ -666,7 +666,7 @@
     <defName>MajorXenn</defName>
     <title>Army major</title>
     <titleShort>Major</titleShort>
-    <baseDescription>NAME is an officer for the Xenn Empire's army. HECAP is responsible for the soldiers under HIS command, and takes that duty seriously.</baseDescription>
+    <baseDescription>[PAWN_nameDef] is an officer for the Xenn Empire's army. [PAWN_pronoun] is responsible for the soldiers under [PAWN_possessive] command, and takes that duty seriously.</baseDescription>
     <bodyTypeMale>Male</bodyTypeMale>
     <bodyTypeFemale>Female</bodyTypeFemale>
 		<maleCommonality>20</maleCommonality>
@@ -691,7 +691,7 @@
     <defName>XennSpacerAdult</defName>
     <title>Space trader</title>
     <titleShort>Spacer</titleShort>
-    <baseDescription>NAME was a free-trader, roving the Xenn Empire and it's neighbors space searching for deals and opportunities for profit. Until now, HE was flying a ship, making deals with colonies like these... I wonder what happened?</baseDescription>
+    <baseDescription>[PAWN_nameDef] was a free-trader, roving the Xenn Empire and it's neighbors space searching for deals and opportunities for profit. Until now, HE was flying a ship, making deals with colonies like these... I wonder what happened?</baseDescription>
     <slot>Adulthood</slot>
     <bodyTypeMale>Male</bodyTypeMale>
     <bodyTypeFemale>Female</bodyTypeFemale>
@@ -721,7 +721,7 @@
     <defName>XennManhunter</defName>
     <title>Space cowboy</title>
     <titleShort>Cowboy</titleShort>
-    <baseDescription>NAME is something of a bounty hunter, often called "cowboys" in the Xenn Empire. Historians claim that this moniker comes from the an ancient entertainment program that took the empire by storm, rather than Earth's "old west".History aside, NAME is not to be taken lightly... or at all.</baseDescription>
+    <baseDescription>[PAWN_nameDef] is something of a bounty hunter, often called "cowboys" in the Xenn Empire. Historians claim that this moniker comes from the an ancient entertainment program that took the empire by storm, rather than Earth's "old west".History aside, [PAWN_nameDef] is not to be taken lightly... or at all.</baseDescription>
     <bodyTypeMale>Male</bodyTypeMale>
     <bodyTypeFemale>Female</bodyTypeFemale>
 		<maleCommonality>28</maleCommonality>
@@ -755,7 +755,7 @@
     <defName>XennTerminator</defName>
     <title>Terminator</title>
     <titleShort>Terminator</titleShort>
-    <baseDescription>NAME has travelled through time to assassinate a specific target... HECAP is fond of telling people that HECAP will 'be back'.</baseDescription>
+    <baseDescription>[PAWN_nameDef] has travelled through time to assassinate a specific target... [PAWN_pronoun] is fond of telling people that [PAWN_pronoun] will 'be back'.</baseDescription>
     <bodyTypeMale>Male</bodyTypeMale>
     <bodyTypeFemale>Female</bodyTypeFemale>
 		<maleCommonality>10</maleCommonality>
@@ -788,7 +788,7 @@
     <defName>XennCommandoBS</defName>
     <title>Retired commando</title>
     <titleShort>Commando</titleShort>
-    <baseDescription>NAME used to be one of the most elite soldiers in the Xenn empire. Now HECAP is retired... though HIS former commander is always trying to get HIM back. Some time ago, HECAP had to rescue a daughter from some druglords. Scary stuff. HECAP didn't kill Sully last.</baseDescription>
+    <baseDescription>[PAWN_nameDef] used to be one of the most elite soldiers in the Xenn empire. Now [PAWN_pronoun] is retired... though [PAWN_possessive] former commander is always trying to get [PAWN_pronoun] back. Some time ago, [PAWN_pronoun] had to rescue a daughter from some druglords. Scary stuff. [PAWN_pronoun] didn't kill Sully last.</baseDescription>
     <bodyTypeMale>Male</bodyTypeMale>
     <bodyTypeFemale>Female</bodyTypeFemale>
 		<maleCommonality>10</maleCommonality>
@@ -817,7 +817,7 @@
     <defName>XennTXRanger</defName>
     <title>Ranger</title>
     <titleShort>Ranger</titleShort>
-    <baseDescription>NAME was a 'lawman' in a dusty Rim colony. HIS preference for working alone and constant 'bending' of the rules earned HIM the nickname "Lone Wolf McQuade". HECAP ran afoul of some corrupt military officials running weapons to some drug-lords. Many bullets later, HECAP ended up taking out the mastermind. Stirring the pot so much probably landed them out here...</baseDescription>
+    <baseDescription>[PAWN_nameDef] was a 'lawman' in a dusty Rim colony. [PAWN_possessive] preference for working alone and constant 'bending' of the rules earned [PAWN_pronoun] the nickname "Lone Wolf McQuade". [PAWN_pronoun] ran afoul of some corrupt military officials running weapons to some drug-lords. Many bullets later, [PAWN_pronoun] ended up taking out the mastermind. Stirring the pot so much probably landed them out here...</baseDescription>
     <bodyTypeMale>Male</bodyTypeMale>
     <bodyTypeFemale>Female</bodyTypeFemale>
 		<maleCommonality>8</maleCommonality>
@@ -842,7 +842,7 @@
     <defName>XennBarbarian</defName>
     <title>Xenn barbarian</title>
     <titleShort>Barbarian</titleShort>
-    <baseDescription>NAME was captured after a battle on a medieval world, and forced to train as a pit-fighter. After crushing HIS enemies, seeing them driven before HIM, and hearing the lamentation of their women, HECAP was released from captivity. HECAP now seems to be seeking 'two snakes' or something?</baseDescription>
+    <baseDescription>[PAWN_nameDef] was captured after a battle on a medieval world, and forced to train as a pit-fighter. After crushing [PAWN_possessive] enemies, seeing them driven before [PAWN_pronoun], and hearing the lamentation of their women, [PAWN_pronoun] was released from captivity. [PAWN_pronoun] now seems to be seeking 'two snakes' or something?</baseDescription>
     <bodyTypeMale>Male</bodyTypeMale>
     <bodyTypeFemale>Female</bodyTypeFemale>
 		<maleCommonality>15</maleCommonality>
@@ -867,7 +867,7 @@
     <defName>XennNavyCook</defName>
     <title>Navy chef</title>
     <titleShort>BadassCook</titleShort>
-    <baseDescription>NAME used to be one of the top Space Marines special forces officers. Now HECAP's 'just' a cook... who can kill you nine different ways with just a pinky. HECAP sometimes has knife-fights with Tommy-Lee Jones.</baseDescription>
+    <baseDescription>[PAWN_nameDef] used to be one of the top Space Marines special forces officers. Now [PAWN_pronoun]'s 'just' a cook... who can kill you nine different ways with just a pinky. [PAWN_pronoun] sometimes has knife-fights with Tommy-Lee Jones.</baseDescription>
     <bodyTypeMale>Male</bodyTypeMale>
     <bodyTypeFemale>Female</bodyTypeFemale>
 		<maleCommonality>25</maleCommonality>
@@ -896,7 +896,7 @@
     <defName>XennTimeScientist</defName>
     <title>Xenn temporal-physicist</title>
     <titleShort>Timedoc</titleShort>
-    <baseDescription>NAME claims to have invented a device that allows HIM to travel through time. Apparently after falling and striking HIS head on the toilet. HECAP keeps muttering something about misplacing a 'Duh-Lorian'- whatever that is.</baseDescription>
+    <baseDescription>[PAWN_nameDef] claims to have invented a device that allows [PAWN_pronoun] to travel through time. Apparently after falling and striking [PAWN_possessive] head on the toilet. [PAWN_pronoun] keeps muttering something about misplacing a 'Duh-Lorian'- whatever that is.</baseDescription>
     <bodyTypeMale>Male</bodyTypeMale>
     <bodyTypeFemale>Female</bodyTypeFemale>
 		<maleCommonality>30</maleCommonality>
@@ -921,7 +921,7 @@
     <defName>XennProgrammer</defName>
     <title>Xenn programmer</title>
     <titleShort>Programmer</titleShort>
-    <baseDescription>NAME has spent many sleepless nights hammering away at a console (not literally with a hammer - though sometimes HECAP wanted to). This allowed HIM to fund HIS second passion... Firearms. HECAP would vent HIS frustrations at the shooting range as often as HECAP could.</baseDescription>
+    <baseDescription>[PAWN_nameDef] has spent many sleepless nights hammering away at a console (not literally with a hammer - though sometimes [PAWN_pronoun] wanted to). This allowed [PAWN_pronoun] to fund [PAWN_possessive] second passion... Firearms. [PAWN_pronoun] would vent [PAWN_possessive] frustrations at the shooting range as often as [PAWN_pronoun] could.</baseDescription>
     <bodyTypeMale>Male</bodyTypeMale>
     <bodyTypeFemale>Female</bodyTypeFemale>
 		<maleCommonality>30</maleCommonality>
@@ -947,7 +947,7 @@
     <defName>XennDrugLord</defName>
     <title>Xenn kingpin</title>
     <titleShort>Kingpin</titleShort>
-    <baseDescription>NAME built a drug empire with brawns, brains, and a fair share of ruthlessness. HECAP made a fortune, which attracted the attention of HIS rivals. They struck HIS base of operation with Police raids, staged by crooked cops on their payroll. Now HECAP is out for revenge...</baseDescription>
+    <baseDescription>[PAWN_nameDef] built a drug empire with brawns, brains, and a fair share of ruthlessness. [PAWN_pronoun] made a fortune, which attracted the attention of [PAWN_possessive] rivals. They struck [PAWN_possessive] base of operation with Police raids, staged by crooked cops on their payroll. Now [PAWN_pronoun] is out for revenge...</baseDescription>
     <bodyTypeMale>Male</bodyTypeMale>
     <bodyTypeFemale>Female</bodyTypeFemale>
 		<maleCommonality>20</maleCommonality>

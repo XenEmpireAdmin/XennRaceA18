@@ -44,7 +44,7 @@
         <compClass>CompQuality</compClass>
       </li>
       <li Class="CompProperties_Art">
-        <nameMaker>ArtName_WeaponGun</nameMaker>
+        <nameMaker>NamerArtWeaponGun</nameMaker>
         <descriptionMaker>ArtDescription_WeaponGun</descriptionMaker>
         <minQualityForArtistic>Excellent</minQualityForArtistic>
       </li>
@@ -91,7 +91,7 @@
       <texPath>Things/Guns/Xenngunred</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
-    <soundInteract>InteractAutopistol</soundInteract>
+    <soundInteract>Interact_ChargeLance</soundInteract>
     <recipeMaker>
       <researchPrerequisite>ChargedShot</researchPrerequisite>
     </recipeMaker>
@@ -111,7 +111,7 @@
     <costList>
       <Steel>125</Steel>
       <Plasteel>55</Plasteel>
-      <Component>2</Component>
+      <ComponentSpacer>2</ComponentSpacer>
     </costList>
     <verbs>
       <li>
@@ -181,7 +181,7 @@
       <texPath>Things/Guns/Xenngunblue</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
-    <soundInteract>InteractAutopistol</soundInteract>
+    <soundInteract>Interact_ChargeLance</soundInteract>
     <recipeMaker>
       <researchPrerequisite>ChargedShot</researchPrerequisite>
     </recipeMaker>
@@ -193,12 +193,11 @@
       <AccuracyMedium>0.79</AccuracyMedium>
       <AccuracyLong>0.69</AccuracyLong>
       <RangedWeapon_Cooldown>0.92</RangedWeapon_Cooldown>
-      <Weapon_Bulk>0.5</Weapon_Bulk>
     </statBases>
     <costList>
       <Steel>125</Steel>
       <Plasteel>55</Plasteel>
-      <Component>2</Component>
+      <ComponentSpacer>2</ComponentSpacer>
     </costList>
     <verbs>
       <li>

@@ -66,7 +66,7 @@
       <li>Apparel</li>
     </thingCategories>
     <costList>
-      <Component>18</Component>
+      <ComponentIndustrial>18</ComponentIndustrial>
       <Plasteel>135</Plasteel>
 	  <Steel>35</Steel>
 	  <Cloth>15</Cloth>
@@ -120,7 +120,7 @@
       <li>Apparel</li>
     </thingCategories>
     <costList>
-      <Component>18</Component>
+      <ComponentIndustrial>18</ComponentIndustrial>
       <Plasteel>135</Plasteel>
 	  <Steel>35</Steel>
 	  <Cloth>15</Cloth>
@@ -174,7 +174,7 @@
       <li>Apparel</li>
     </thingCategories>
     <costList>
-      <Component>18</Component>
+      <ComponentIndustrial>18</ComponentIndustrial>
       <Plasteel>135</Plasteel>
 	  <Steel>35</Steel>
 	  <Cloth>15</Cloth>
@@ -218,21 +218,21 @@
 			<ArmorRating_Blunt>0.25</ArmorRating_Blunt>
 			<ArmorRating_Sharp>0.20</ArmorRating_Sharp>
 			<ArmorRating_Heat>0.25</ArmorRating_Heat>
-			<ArmorRating_Electric>0.2</ArmorRating_Electric>
 			<Insulation_Cold>-5</Insulation_Cold>
 			<Insulation_Heat>6</Insulation_Heat>
+      <Mass>0.5</Mass>
 		</statBases>
 		<costList>
 			<Steel>20</Steel>
 		</costList>
 		<equippedStatOffsets>
-			<ShootingAccuracy>0.02</ShootingAccuracy>
+			<ShootingAccuracyPawn>0.02</ShootingAccuracyPawn>
 			<PsychicSensitivity>-0.05</PsychicSensitivity>
 			<MoveSpeed>0.01</MoveSpeed>
 			<MentalBreakThreshold>-0.02</MentalBreakThreshold>
 			<MeleeHitChance>0.02</MeleeHitChance>
 			<AimingDelayFactor>-0.01</AimingDelayFactor>
-			<RecruitPrisonerChance>0.01</RecruitPrisonerChance>
+			<NegotiationAbility>0.01</NegotiationAbility>
 			<SocialImpact>0.05</SocialImpact>
 			<TradePriceImprovement>0.02</TradePriceImprovement>
 			<WorkSpeedGlobal>0.02</WorkSpeedGlobal>

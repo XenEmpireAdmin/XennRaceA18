@@ -4,7 +4,7 @@
     <defName>XenGen1C</defName>
     <title>Apprentice carpenter</title>
 	<titleShort>Apprentice</titleShort>
-    <baseDescription>NAME worked with HIS father, a local handyman and master carpenter, somewhat famous among local ALIENRACE. NAME learned much from HIS father, though HE seemed to have a deeper talent for landscaping and garden design.</baseDescription>
+    <baseDescription>[PAWN_nameDef] worked with [PAWN_possessive] father, a local handyman and master carpenter, somewhat famous among local ALIENRACE. [PAWN_nameDef] learned much from [PAWN_possessive] father, though HE seemed to have a deeper talent for landscaping and garden design.</baseDescription>
     <slot>Childhood</slot>
 	<bodyTypeGlobal>Thin</bodyTypeGlobal>
     <spawnCategories>
@@ -20,7 +20,7 @@
         <amount>3</amount>
       </li>
 	  <li>
-        <defName>Growing</defName>
+        <defName>Plants</defName>
         <amount>5</amount>
       </li>
     </skillGains>
@@ -30,7 +30,7 @@
     <defName>XenGen1A</defName>
     <title>Landscape designer</title>
 	<titleShort>Landscaper</titleShort>
-    <baseDescription>NAME opened a landscaping business, rising to fame after winning a contract with the local ALIENRACE government to redesign the landscape of several public facilities. NAME's library courtyard and parks became fast favorites among the populous.
+    <baseDescription>[PAWN_nameDef] opened a landscaping business, rising to fame after winning a contract with the local ALIENRACE government to redesign the landscape of several public facilities. [PAWN_nameDef]'s library courtyard and parks became fast favorites among the populous.
     </baseDescription>
     <slot>Adulthood</slot>
 	<bodyTypeGlobal>Thin</bodyTypeGlobal>
@@ -53,17 +53,13 @@
         <amount>6</amount>
       </li>
 	    <li>
-        <defName>Growing</defName>
+        <defName>Plants</defName>
         <amount>4</amount>
       </li>
     </skillGains>
       <forcedTraits>
         <li>
-            <defname>GreenThumb</defname>
-            <chance>100</chance>
-        </li>
-        <li>
-            <defname>Kind</defname>
+            <defName>Kind</defName>
             <chance>100</chance>
         </li>
       </forcedTraits>
@@ -73,7 +69,7 @@
     <defName>XenGen2C</defName>
     <title>Young tinker</title>
 	<titleShort>Tinker</titleShort>
-    <baseDescription>NAME loved inventions and machines, ever-curious about how things work. HECAP developed an incredible skill for maintaining and repairing all sorts of things.</baseDescription>
+    <baseDescription>[PAWN_nameDef] loved inventions and machines, ever-curious about how things work. [PAWN_pronoun] developed an incredible skill for maintaining and repairing all sorts of things.</baseDescription>
     <slot>Childhood</slot>
     <spawnCategories>
       <li>XenBackstory</li>
@@ -99,7 +95,7 @@
     <defName>XenGen2A</defName>
     <title>Master inventor</title>
 	<titleShort>Inventor</titleShort>
-    <baseDescription>NAME turned a HIS talents with machines into a few successful patents, freeing time to invent, create, and learn.
+    <baseDescription>[PAWN_nameDef] turned a [PAWN_possessive] talents with machines into a few successful patents, freeing time to invent, create, and learn.
     </baseDescription>
     <slot>Adulthood</slot>
     <spawnCategories>

@@ -14,11 +14,13 @@
     <isPlayer>true</isPlayer>
     <basicMemberKind>Xenn</basicMemberKind>
     <pawnsPlural>colonists</pawnsPlural>
-    <baseNameMaker>NamerFactionBasePlayerColony</baseNameMaker>
-		<baseNameMakerPlayer>NamerFactionPlayerColonyRandomized</baseNameMakerPlayer>
-		<factionNameMakerPlayer>NamerFactionBasePlayerColonyRandomized</factionNameMakerPlayer>
+    <settlementNameMaker>NamerSettlementOutlander</settlementNameMaker>
+		<playerInitialSettlementNameMaker>NamerInitialSettlementColony</playerInitialSettlementNameMaker>
+		<factionNameMaker>NamerFactionOutlander</factionNameMaker>
     <techLevel>Ultra</techLevel>
-    <backstoryCategory>XennBackstory</backstoryCategory>
+    <backstoryCategories>
+			<li>XennBackstory</li>
+  	</backstoryCategories>
     <homeIconPath>World/XennBaseIcon</homeIconPath>
     <expandingIconTexture>World/XennBaseIcon</expandingIconTexture>
     <startingResearchTags>
@@ -42,11 +44,13 @@
     <isPlayer>true</isPlayer>
     <basicMemberKind>Xenn</basicMemberKind>
     <pawnsPlural>colonists</pawnsPlural>
-    <baseNameMaker>NamerFactionBasePlayerColony</baseNameMaker>
-		<baseNameMakerPlayer>NamerFactionPlayerColonyRandomized</baseNameMakerPlayer>
-		<factionNameMakerPlayer>NamerFactionBasePlayerColonyRandomized</factionNameMakerPlayer>
+    <settlementNameMaker>NamerSettlementOutlander</settlementNameMaker>
+		<playerInitialSettlementNameMaker>NamerInitialSettlementColony</playerInitialSettlementNameMaker>
+		<factionNameMaker>NamerFactionOutlander</factionNameMaker>
     <techLevel>Ultra</techLevel>
-    <backstoryCategory>XennBackstory</backstoryCategory>
+    <backstoryCategories>
+			<li>XennBackstory</li>
+  	</backstoryCategories>
     <homeIconPath>World/XennBaseIcon</homeIconPath>
     <expandingIconTexture>World/XennBaseIcon</expandingIconTexture>
     <startingResearchTags>
