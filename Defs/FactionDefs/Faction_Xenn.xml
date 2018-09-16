@@ -7,6 +7,7 @@
     <description>A colony of the mysterious Xenn race.</description>
     <pawnsPlural>xenn</pawnsPlural>
     <requiredCountAtGameStart>1</requiredCountAtGameStart>
+    <settlementGenerationWeight>1</settlementGenerationWeight>
     <canMakeRandomly>true</canMakeRandomly>
     <canSiege>true</canSiege>
     <canStageAttacks>true</canStageAttacks>

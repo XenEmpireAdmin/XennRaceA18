@@ -12,7 +12,7 @@
 
   <PawnKindDef ParentName="BaseXennPawnKind">
     <defName>Xenn</defName>
-    <label>colonist</label>
+    <label>xenn colonist</label>
     <defaultFactionType>XennPlayerColony</defaultFactionType>
     <backstoryCategories>
 			<li>XennBackstory</li>

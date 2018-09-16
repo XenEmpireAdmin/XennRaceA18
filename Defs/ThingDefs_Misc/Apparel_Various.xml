@@ -56,11 +56,11 @@
       <MaxHitPoints>450</MaxHitPoints>
       <MarketValue>4700</MarketValue>
       <Mass>15</Mass>
-      <ArmorRating_Blunt>0.36</ArmorRating_Blunt>
-      <ArmorRating_Sharp>0.66</ArmorRating_Sharp>
-      <ArmorRating_Heat>0.31</ArmorRating_Heat>
-      <Insulation_Cold>-35</Insulation_Cold>
-	  <Insulation_Heat>25</Insulation_Heat>
+      <ArmorRating_Blunt>0.46</ArmorRating_Blunt>
+      <ArmorRating_Sharp>1.16</ArmorRating_Sharp>
+      <ArmorRating_Heat>0.61</ArmorRating_Heat>
+      <Insulation_Cold>36</Insulation_Cold>
+	    <Insulation_Heat>25</Insulation_Heat>
     </statBases>
     <thingCategories>
       <li>Apparel</li>
@@ -110,11 +110,11 @@
       <MaxHitPoints>450</MaxHitPoints>
       <MarketValue>4700</MarketValue>
       <Mass>15</Mass>
-      <ArmorRating_Blunt>0.36</ArmorRating_Blunt>
-      <ArmorRating_Sharp>0.66</ArmorRating_Sharp>
-      <ArmorRating_Heat>0.31</ArmorRating_Heat>
-      <Insulation_Cold>-55</Insulation_Cold>
-	  <Insulation_Heat>10</Insulation_Heat>
+      <ArmorRating_Blunt>0.46</ArmorRating_Blunt>
+      <ArmorRating_Sharp>1.16</ArmorRating_Sharp>
+      <ArmorRating_Heat>0.61</ArmorRating_Heat>
+      <Insulation_Cold>56</Insulation_Cold>
+	    <Insulation_Heat>25</Insulation_Heat>
     </statBases>
     <thingCategories>
       <li>Apparel</li>
@@ -164,11 +164,11 @@
       <MaxHitPoints>400</MaxHitPoints>
       <MarketValue>4700</MarketValue>
       <Mass>15</Mass>
-      <ArmorRating_Blunt>0.36</ArmorRating_Blunt>
-      <ArmorRating_Sharp>0.66</ArmorRating_Sharp>
-      <ArmorRating_Heat>0.31</ArmorRating_Heat>
-      <Insulation_Cold>-35</Insulation_Cold>
-	  <Insulation_Heat>25</Insulation_Heat>
+      <ArmorRating_Blunt>0.46</ArmorRating_Blunt>
+      <ArmorRating_Sharp>1.16</ArmorRating_Sharp>
+      <ArmorRating_Heat>0.61</ArmorRating_Heat>
+      <Insulation_Cold>36</Insulation_Cold>
+	    <Insulation_Heat>35</Insulation_Heat>
     </statBases>
     <thingCategories>
       <li>Apparel</li>
@@ -215,11 +215,11 @@
 			<MarketValue>250</MarketValue>
 			<WorkToMake>500</WorkToMake>
 			<MaxHitPoints>350</MaxHitPoints>
-			<ArmorRating_Blunt>0.25</ArmorRating_Blunt>
-			<ArmorRating_Sharp>0.20</ArmorRating_Sharp>
-			<ArmorRating_Heat>0.25</ArmorRating_Heat>
-			<Insulation_Cold>-5</Insulation_Cold>
-			<Insulation_Heat>6</Insulation_Heat>
+			<ArmorRating_Blunt>0.46</ArmorRating_Blunt>
+      <ArmorRating_Sharp>1.16</ArmorRating_Sharp>
+      <ArmorRating_Heat>0.61</ArmorRating_Heat>
+      <Insulation_Cold>36</Insulation_Cold>
+	    <Insulation_Heat>25</Insulation_Heat>
       <Mass>0.5</Mass>
 		</statBases>
 		<costList>

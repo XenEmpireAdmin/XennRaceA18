@@ -1,5 +1,68 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Defs>
+
+
+<AlienRace.RaceSettings>
+    <defName>Xenn_Settings</defName>
+     <pawnKindSettings>
+            <alienslavekinds>
+                <li>
+                    <kindDefs>
+                        <li>XennSlave</li>
+                    </kindDefs>
+                    <chance>40.0</chance>
+                </li>
+            </alienslavekinds>
+            <alienrefugeekinds>
+                <li>
+                    <kindDefs>
+                        <li>XennRefugee</li>
+                    </kindDefs>
+                    <chance>50.0</chance>
+                </li>
+            </alienrefugeekinds>
+			<startingColonists>
+				<li>
+				<pawnKindEntries>
+					<li>
+                    <kindDefs>
+                        <li>XennHunter</li>
+						<li>XennCommando</li>
+						<li>XennCommandoElite</li>
+						<li>XennColonist</li>
+                    </kindDefs>
+                    <chance>10.0</chance>
+					</li>
+				</pawnKindEntries>
+					<factionDefs>
+						<li>XennPlayerColony</li> 
+					</factionDefs>
+				</li>
+			</startingColonists>
+            <alienwandererkinds>
+                <li>
+                    <pawnKindEntries>
+                        <li>
+                            <kindDefs>
+                                <li>XennHunter</li>
+								<li>XennCommando</li>
+								<li>XennColonist</li>
+								<li>XennCommandoElite</li>
+								<li>XennPackLeader</li>
+								<li>XennRecruit</li>
+                            </kindDefs>
+                            <chance>50.0</chance>
+                        </li>
+                    </pawnKindEntries>
+                    <factionDefs>
+                        <li>XennPlayerColony</li> 
+                    </factionDefs>
+                </li>
+            </alienwandererkinds>
+        </pawnKindSettings>
+  </AlienRace.RaceSettings>
+
+
 <ThingDef Name="BaseXennPawn" Abstract="True">
     <thingClass>Pawn</thingClass>
     <category>Pawn</category>
@@ -217,7 +280,7 @@
 	   <PsychicSensitivity>0.85</PsychicSensitivity>
 	   <MiningSpeed>3</MiningSpeed>
 	   <ConstructSuccessChance>2.55</ConstructSuccessChance>
-       <ConstructionSpeed>1.5</ConstructionSpeed>
+       <ConstructionSpeed>1.15</ConstructionSpeed>
     </statBases>
     <tools>
       <li>

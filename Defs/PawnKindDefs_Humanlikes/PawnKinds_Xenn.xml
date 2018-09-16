@@ -15,6 +15,11 @@
     <apparelTags>
     <li>Outlander</li>
 	  <li>XennSoldier</li>
+    <li>IndustrialBasic</li>
+      <li>IndustrialAdvanced</li>
+      <li>IndustrialMilitaryBasic</li>
+      <li>IndustrialMilitaryAdvanced</li>
+      <li>SpacerMilitary</li>
     </apparelTags>
 	 <weaponTags>
 	  <li>XennRifle</li>
@@ -166,6 +171,11 @@
       <li>Outlander</li>
       <li>Military</li>
 	  <li>XennSoldier</li>
+    <li>IndustrialBasic</li>
+      <li>IndustrialAdvanced</li>
+      <li>IndustrialMilitaryBasic</li>
+      <li>IndustrialMilitaryAdvanced</li>
+      <li>SpacerMilitary</li>
     </apparelTags>
     <apparelMoney>
       <min>1500</min>
@@ -222,6 +232,11 @@
       <li>Outlander</li>
       <li>Military</li>
 	  <li>XennSoldier</li>
+    <li>IndustrialBasic</li>
+      <li>IndustrialAdvanced</li>
+      <li>IndustrialMilitaryBasic</li>
+      <li>IndustrialMilitaryAdvanced</li>
+      <li>SpacerMilitary</li>
     </apparelTags>
     <apparelMoney>
       <min>1500</min>
@@ -333,6 +348,11 @@
       <li>Military</li>
       <li>Spacer</li>
 	  <li>XennSoldier</li>
+    <li>IndustrialBasic</li>
+      <li>IndustrialAdvanced</li>
+      <li>IndustrialMilitaryBasic</li>
+      <li>IndustrialMilitaryAdvanced</li>
+      <li>SpacerMilitary</li>
     </apparelTags>
     <apparelMoney>
       <min>2500</min>
