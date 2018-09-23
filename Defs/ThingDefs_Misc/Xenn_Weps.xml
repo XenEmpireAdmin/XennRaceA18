@@ -69,7 +69,7 @@
   
   <ThingDef ParentName="BaseBullet">
     <defName>Bullet_FlameX</defName>
-    <label>kinetic canister</label>
+    <label>x-napalm bolt</label>
     <graphicData>
       <texPath>Projectile/XFBullet</texPath>
       <graphicClass>Graphic_Single</graphicClass>
